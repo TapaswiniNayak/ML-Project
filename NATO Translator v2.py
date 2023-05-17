@@ -1,4 +1,4 @@
-__author__ = ['Sunka Labree']
+
 __date__ = ['2021.10.14 -> 2021.10.27']
 # Imports sys.argv
 import sys
