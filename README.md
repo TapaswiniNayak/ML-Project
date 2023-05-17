@@ -10,14 +10,14 @@ The program allows the user to either provide the input as command-line argument
 Once the input is obtained, each character is looked up in a dictionary that maps it to its NATO phonetic alphabet representation. 
 The program then prints each character along with its corresponding NATO translation.
 
-For example, if the input is "hello123", the program will output:
-h Hotel   |  ****<br>
-e Echo    |  *
-l Lima    |  *-**
-l Lima    |  *-**
-o Oscar   |  ---
-1 One (Pronounce as Wun)    |  *----
-2 Two (Pronounce as Too)    |  **---
-3 Three (Pronounce as Tree) |  ***--
+For example, if the input is "hello123", the program will output: <br>
+h Hotel   |  **** <br>
+e Echo    |  * <br>
+l Lima    |  *-** <br>
+l Lima    |  *-** <br>
+o Oscar   |  --- <br>
+1 One (Pronounce as Wun)    |  *---- <br> 
+2 Two (Pronounce as Too)    |  **--- <br>
+3 Three (Pronounce as Tree) |  ***-- <br>
 
 In simple terms, this program helps you convert letters and numbers into words from a special alphabet used by NATO to avoid confusion during communication. You can provide the input when running the program or enter it when prompted, and the program will display the corresponding NATO translations for each character.
