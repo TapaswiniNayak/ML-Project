@@ -12,8 +12,8 @@ Once the input is obtained, each character is looked up in a dictionary that map
 The program then prints each character along with its corresponding NATO translation.
 
 For example, if the input is "hello123", the program will output:
-h Hotel   |  ****
-e Echo    |  *
+#h Hotel   |  ****
+#e Echo    |  *
 l Lima    |  *-**
 l Lima    |  *-**
 o Oscar   |  ---
