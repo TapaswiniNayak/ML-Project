@@ -18,4 +18,4 @@ o Oscar   |  ---
 2 Two (Pronounce as Too)    |  **---
 3 Three (Pronounce as Tree) |  ***--
 
-
+In simple terms, this program helps you convert letters and numbers into words from a special alphabet used by NATO to avoid confusion during communication. You can provide the input when running the program or enter it when prompted, and the program will display the corresponding NATO translations for each character.
