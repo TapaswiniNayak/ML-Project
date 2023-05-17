@@ -1,5 +1,5 @@
 
-__date__ = ['2021.10.14 -> 2021.10.27']
+
 # Imports sys.argv
 import sys
 
