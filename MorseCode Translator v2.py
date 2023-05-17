@@ -1,4 +1,3 @@
-
 # Imports sys.argv
 import sys
 
